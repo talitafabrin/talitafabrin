@@ -36,16 +36,12 @@
 
 ##
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=talitafabrin&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center">
   <img src="https://profile-counter.glitch.me/talitafabrin/count.svg" />
 </p>
-
-<h3><em><strong>
-      <p align="center">:bar_chart: GitHub Stats :chart_with_downwards_trend:
-    </strong></em></h3>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=talitafabrin&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h2>
